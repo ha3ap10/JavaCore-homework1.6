@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-08-04T22:11:22" hostname="HA3AP-PC" time="0.041">
+  <properties/>
+  <testcase name="[1] -10" classname="CalculatorTest" time="0.024"/>
+  <testcase name="[2] 0" classname="CalculatorTest" time="0.001"/>
+  <testcase name="[3] 5" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testMinus()" classname="CalculatorTest" time="0.002"/>
+  <testcase name="testPlus()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testDivideExceptionByZero()" classname="CalculatorTest" time="0.006"/>
+  <testcase name="testDivide()" classname="CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[
+Start test abs
+End test
+
+Start test abs
+End test
+
+Start test abs
+End test
+
+Start test minus
+End test
+
+Start test plus
+End test
+
+Start test exception
+End test
+
+Start test divide
+End test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
